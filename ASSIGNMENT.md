@@ -23,3 +23,5 @@ Watch today's video from the [demo playlist.](https://www.youtube.com/playlist?l
 When you have completed the entire set of code challenges and all tests pass, create a pull request from your current branch to the master branch and merge it into master.
 
 Submit a link to your pull request.
+
+end
