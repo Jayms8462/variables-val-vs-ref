@@ -148,5 +148,3 @@ describe('Testing challenge 5', () => {
     expect(a).toStrictEqual([1, 2, 3, 4, 5, 6, 7, 8]);
   });
 });
-
-// end

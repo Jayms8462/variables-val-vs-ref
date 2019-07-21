@@ -100,4 +100,3 @@ console.log(a) // [1, 2, 3, 4, 0] It now has the modification, changed from with
 * [MDN - JavaScript Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Grasp "By Reference", "By Value" in JavaScript](https://hackernoon.com/grasp-by-value-and-by-reference-in-javascript-7ed75efa1293)
 
-<!-- end -->
